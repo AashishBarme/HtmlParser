@@ -1,4 +1,4 @@
-# HtmlParser
+# Script Parser
 
 ## to use this class
 - import HtmlParser from './HtmlParser';
