@@ -1,4 +1,4 @@
-class HtmlParse
+class ScriptParser
 {
     public RenderScripts(content: string, location:string)
     {
@@ -35,4 +35,4 @@ class HtmlParse
         }
     }
 }
-export default new HtmlParse;
+export default new ScriptParser
